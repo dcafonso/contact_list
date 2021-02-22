@@ -1,4 +1,6 @@
-$gray-medium-light: #EAEAEA;
+$gray-medium-light: #eaeaea;
+$gray-light: gray;
+$gray-darker: gray;
 
 footer {
   margin-top: 45px;
@@ -7,7 +9,7 @@ footer {
   color: $gray-light;
 
   a {
-    color: $gray;
+    color: gray;
 
     &:hover {
       color: $gray-darker;
